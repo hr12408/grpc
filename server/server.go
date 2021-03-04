@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 	"net"
-	"github.com/tutorialedge/go-grpc-beginners-tutorial/chat" //uses proto
+	"github.com/hr12408/grpc/server/chat" //uses proto
 	"google.golang.org/grpc"
 )
 
